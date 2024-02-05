@@ -1,10 +1,10 @@
-Olá, sou Jeanluca Martins
+# Olá, sou Jeanluca Martins
 
-- 🔭 Me aperfeiçoando em Front-End
-- 🌱 Estudando React e TypeScript
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: jeaanlucamartins@gmail.com
-- 😄 Pronouns: ele/dele
+### - 🔭 Me aperfeiçoando em Front-End
+### - 🌱 Estudando React e TypeScript
+### - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
+### - 📫 contacte-me no email: jeaanlucamartins@gmail.com
+### - 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/jeanlucamtp12">
@@ -30,6 +30,5 @@ Olá, sou Jeanluca Martins
   <a href="https://wa.me/31995574087"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/jeanlucl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/jeanlucamtp12/jeanlucamtp12/blob/output/github-contribution-grid-snake.svg)
  
 </div>
