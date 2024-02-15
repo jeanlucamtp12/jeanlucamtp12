@@ -4,7 +4,7 @@
 ### - 🌱 Estudando React e TypeScript
 ### - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
 ### - 📫 contacte-me no email: jeaanlucamartins@gmail.com
-### - 🎮 Confira meu portfólio de jogos no itch.io
+### - 🎮 Confira meu portfólio de jogos web no itch.io
 ### - 😄 Pronouns: ele/dele
 
 <div align="center">
